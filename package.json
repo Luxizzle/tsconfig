@@ -1,0 +1,20 @@
+{
+  "name": "@luxizzle/tsconfig",
+  "version": "0.0.0",
+  "description": "Shared TypeScript config",
+  "main": "tsconfig.json",
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts"
+  ],
+  "repository": "luxizzle/tsconfig",
+  "author": {
+    "name": "Jelmer de Waal",
+    "url": "https://lux.moe"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "license": "MIT"
+}
